@@ -19,6 +19,10 @@
   overflow-x: auto;
 }
 
+#bicicleta .bicicletas-lista-itens {
+  padding: 0;
+}
+
 .bicicletas-lista-itens li {
   min-width: 280px;
 }
