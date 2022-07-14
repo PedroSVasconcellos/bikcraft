@@ -35,6 +35,10 @@
   grid-column: span 2;
 }
 
+.col-2 {
+  grid-column: span 2;
+}
+
 @media (max-width:600px) {
   .form {
     grid-template-columns: 1fr;
